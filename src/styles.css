@@ -6,7 +6,7 @@ section {
     background-color: white;
 }
 
-.hero {
+.person {
     background-color: #1c1d25;
     height: 100vh;
     color: white;
@@ -61,14 +61,14 @@ p {
     font-weight: 300;
 }
 
-.hero-area {
+.person-area {
     display: flex;
     height: 100%;
     justify-content: space-between;
     align-items: center;
 }
 
-.hero-text {
+.person-text {
     margin-left: 80px;
     margin-bottom: 200px;
 }
